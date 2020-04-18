@@ -129,3 +129,16 @@ button:focus{
 .grid{
   width: 100%;
 }
+
+footer{
+  margin-top: 1rem;
+  background-color: #00586F;
+  padding: 1rem;
+  text-align: center;
+}
+
+footer a{
+  color: white;
+  text-decoration: underline;
+  font-family: 'Playfair Display', serif;
+}

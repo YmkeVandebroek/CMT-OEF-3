@@ -1,0 +1,4 @@
+https://stormy-springs-28464.herokuapp.com/
+
+Op PC ziet de app er wel goed uit als hij op GSM formaat geschaald is, 
+maar op GSM veranderd de lay-out helemaal, terwijl mijn andere sites op GSM wel perfect werken...
